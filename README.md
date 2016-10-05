@@ -25,3 +25,4 @@ myDemoElectrodeApp('Rainbow');
 [travis-url]: https://travis-ci.org/avagdar/my-demo-electrode-app
 [daviddm-image]: https://david-dm.org/avagdar/my-demo-electrode-app.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/avagdar/my-demo-electrode-app
+"# my-electrode-app" 
