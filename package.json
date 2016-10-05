@@ -1,0 +1,42 @@
+{
+  "name": "my-demo-electrode-app",
+  "version": "0.0.0",
+  "description": "my first demo",
+  "homepage": "https://github.com/avagdar",
+  "author": {
+    "name": "Aivaras",
+    "email": "aivaras.simulis@outlook.com",
+    "url": "https://github.com/avagdar"
+  },
+  "contributors": [],
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "aivsim-electrode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "avagdar/my-demo-electrode-app"
+  },
+  "scripts": {
+    "start": "gulp dev",
+    "test": "gulp test",
+    "coverage": "gulp check"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "electrode-archetype-react-app": "^1.0.0",
+    "electrode-confippet": "^1.0.0",
+    "electrode-router-resolver-engine": "^1.0.0",
+    "electrode-server": "^1.0.0",
+    "electrode-static-paths": "^1.0.0",
+    "lodash": "^4.10.1"
+  },
+  "devDependencies": {
+    "electrode-archetype-react-app-dev": "^1.0.0",
+    "gulp": "^3.9.1"
+  },
+  "private": true
+}
